@@ -1,5 +1,8 @@
 # MY_PROJECTS
 Simple project to sort drawings by paper size, saved as PDF files.
+
+Env.: Windows
+
 Quick instruction:
 1. Run SortPDF.exe
 2. Choose directory with PDF files (for example dir "DRAWING_EXAMPLES"),
